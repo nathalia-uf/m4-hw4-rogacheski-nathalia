@@ -6,12 +6,12 @@ body {
 header {
     color: black;
     font-size: 20px;
-    align: center;
+    text-align: center;
     margin-top: 35px 0;
     margin-bottom: 20px 0;
 }
 section.jumbotron {
-    align:center;
+    text-align:center;
     color: bisque;
 }
 a {
