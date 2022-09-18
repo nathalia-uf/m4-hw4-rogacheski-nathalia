@@ -13,6 +13,10 @@ section.jumbotron {
     text-align:center;
     color: bisque;
 }
+article.Selena {
+    text-align: center;
+    border-image: auto;
+}
 a {
     color: azure;
 }
@@ -28,12 +32,16 @@ h2 {
 h3 {
     font-size: large;
 }
-p {
+p, ul {
     font-size: medium;
+    color: black;
 }
 article.albums {
     text-align: center;
+    margin-top,bottom:15px;
+    margin-left: 30px;
 }
-footer {
-    font-size: smaller;
-}
+p ~ ul {
+    background-image: url(//source.unsplash.com/1280x720/?white?5);
+    background-position: center;
+    }
