@@ -1,0 +1,21 @@
+body {
+    background-color: hsl(351, 60%, 86%);
+    color:rgb(57, 57, 57);
+}
+header {
+    color: black;
+    font-size: x-large;
+}
+image {
+    align-items: center;
+}
+h1 {
+    font-size: large;
+    text-align: left;
+}
+h2 {
+    font-size: medium;
+}
+p {
+    font-size: smaller;
+}
