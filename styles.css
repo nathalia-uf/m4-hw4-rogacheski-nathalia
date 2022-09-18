@@ -1,10 +1,11 @@
 body {
     background-color: hsl(351, 60%, 86%);
-    color:rgb(57, 57, 57);
     margin: auto;
 }
-header {
+h2, h3, p, ul {
     color: black;
+}
+header {
     font-size: 20 px;
     text-align: center;
     margin: 20px 0;
@@ -27,19 +28,16 @@ h1 {
 }
 h2 {
     font-size: x-large;
-    color: black;
 }
 h3 {
     font-size: large;
 }
 p, ul {
     font-size: medium;
-    color: black;
 }
 article.albums {
     text-align: center;
     margin-top,bottom:15px;
-    margin-left: 30px;
 }
 p ~ ul {
     background-image: url(//source.unsplash.com/1280x720/?white?5);
