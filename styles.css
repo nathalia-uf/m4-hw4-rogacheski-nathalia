@@ -7,15 +7,21 @@ header {
     font-size: large;
 }
 h1 {
-    font-size: x-large;
-    text-align: left;
+    font-size: xx-large;
+    text-align: center;
     color: darkmagenta;
 }
 h2 {
-    font-size: large;
+    font-size: x-large;
     color: black;
+}
+h3 {
+    font-size: large;
 }
 p {
     font-size: medium;
-    text: indent 2px;
+    text: indent 10px;
+}
+footer {
+    font-size: smaller;
 }
