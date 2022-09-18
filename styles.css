@@ -1,10 +1,21 @@
 body {
     background-color: hsl(351, 60%, 86%);
     color:rgb(57, 57, 57);
+    margin: auto;
 }
 header {
     color: black;
-    font-size: large;
+    font-size: 20px;
+    align: center;
+    margin-top: 35px 0;
+    margin-bottom: 20px 0;
+}
+section.jumbotron {
+    align:center;
+    color: bisque;
+}
+a {
+    color: azure;
 }
 h1 {
     font-size: xx-large;
@@ -20,7 +31,6 @@ h3 {
 }
 p {
     font-size: medium;
-    text: indent 10px;
 }
 footer {
     font-size: smaller;
