@@ -4,18 +4,18 @@ body {
 }
 header {
     color: black;
-    font-size: x-large;
-}
-image {
-    align-items: center;
+    font-size: large;
 }
 h1 {
-    font-size: large;
+    font-size: x-large;
     text-align: left;
+    color: darkmagenta;
 }
 h2 {
-    font-size: medium;
+    font-size: large;
+    color: black;
 }
 p {
-    font-size: smaller;
+    font-size: medium;
+    text: indent 2px;
 }
